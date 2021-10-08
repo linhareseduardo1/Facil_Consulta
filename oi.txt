@@ -1,0 +1,11 @@
+        
+        <div class="container">
+      <div class="row">
+        <div class="col-md-5 rounded px-5 py-4 shadow bg-white text-left">
+        <!-- Formulário -->
+        <div class="vue-bg col-md-4 d-flex align-items-center">
+        <!-- IMAGEM -->
+        </div>
+      </div>
+    </div>
+  </div>
